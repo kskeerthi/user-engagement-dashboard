@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/user-engagement-dashboard/static/css/main.f855e6bc.css",
+    "main.js": "/user-engagement-dashboard/static/js/main.87305608.js",
+    "static/js/453.6a415e4b.chunk.js": "/user-engagement-dashboard/static/js/453.6a415e4b.chunk.js",
+    "static/media/logo.svg": "/user-engagement-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/user-engagement-dashboard/index.html",
+    "main.f855e6bc.css.map": "/user-engagement-dashboard/static/css/main.f855e6bc.css.map",
+    "main.87305608.js.map": "/user-engagement-dashboard/static/js/main.87305608.js.map",
+    "453.6a415e4b.chunk.js.map": "/user-engagement-dashboard/static/js/453.6a415e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.87305608.js"
+  ]
+}
