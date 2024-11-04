@@ -31,4 +31,4 @@ export const generateMockData = () => {
 
 // Usage example
 const mockData = generateMockData();
-console.log(mockData); // Outputs the generated mock data to the console
+
